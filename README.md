@@ -20,4 +20,10 @@ Developer with a passion for technology, with experience in web projects, automa
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&theme=light"/>
   </a>
 </p>
+<h2 align="center">📚  Frameworks</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,django,flask,bootstrap&theme=light"/>
+  </a>
+</p>
 

@@ -14,7 +14,7 @@ Developer with a passion for technology, with experience in web projects, automa
     <img src="https://skillicons.dev/icons?i=py,java,php&theme=light"/>
   </a>
 </p>
-<h2 align="center"> Databases</h2>
+<h2 align="center"><i class="fa-solid fa-database">Databases</i></h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js"/>

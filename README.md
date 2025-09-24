@@ -18,7 +18,6 @@ Developer with a passion for technology, with experience in web projects, automa
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&theme=light"/>
-    <img src="https://skillicons.dev/icons?i=py,java,php&theme=light"/>
   </a>
 </p>
 

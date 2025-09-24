@@ -9,11 +9,11 @@
 Developer with a passion for technology, with experience in web projects, automation and clean code. In this repository you will find a sample of my work, my learnings and my evolution as a professional.
 <h2 align="center">👨‍💻 Languages</h2>
 
+<h1 align="center">👨‍💻 Languages</h1>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+    <img src="https://skillicons.dev/icons?i=html,css,js,java&theme=light" />
   </a>
 </p>
+

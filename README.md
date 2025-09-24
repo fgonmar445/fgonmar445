@@ -11,7 +11,7 @@ Developer with a passion for technology, with experience in web projects, automa
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js"/>
-    <img src="https://skillicons.dev/icons?i=py,php&theme=light,java"/>
+    <img src="https://skillicons.dev/icons?i=py,java,php&theme=light"/>
   </a>
 </p>
 

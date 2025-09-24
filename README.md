@@ -1,5 +1,4 @@
-## Hi there! 👋
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&duration=2500&pause=1000&color=0D1117&background=47F5FF&vCenter=true&width=435&lines=Hi%2C+there!+I'm+Felipe" alt="Typing SVG" /></a>
 <!--
 **fgonmar445/fgonmar445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

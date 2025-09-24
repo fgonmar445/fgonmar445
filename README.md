@@ -6,6 +6,6 @@ Developer with a passion for technology, with experience in web projects, automa
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,py,mysql" />
   </a>
 </p>

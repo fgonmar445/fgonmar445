@@ -3,7 +3,7 @@
 -🔭 I’m currently studying 2º DAW<br>
 Developer with a passion for technology, with experience in web projects, automation and clean code. In this repository you will find a sample of my work, my learnings and my evolution as a professional.
 <p align="center">
-### 👨‍💻 Languages
+  ### 👨‍💻 Languages<br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>

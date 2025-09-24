@@ -20,16 +20,22 @@ Developer with a passion for technology, with experience in web projects, automa
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&theme=light"/>
   </a>
 </p>
-<h2 align="center">📚  Frameworks</h2>
+<h2 align="center">📚 Frameworks</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,django,flask,bootstrap&theme=light"/>
   </a>
 </p>
-<h2 align="center">🔧   DevOps</h2>
+<h2 align="center">🔧 DevOps</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=light"/>
+  </a>
+</p>
+<h2 align="center">☁️ Cloud Platforms</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,netlify&theme=light"/>
   </a>
 </p>
 

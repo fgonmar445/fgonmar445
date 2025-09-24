@@ -4,11 +4,10 @@
   </a>
 </p>
 
-<h1 align="center">Welcome to my world </h1>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"><br>
+<h1>Welcome to my world</h1> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"><br>
 -🔭 I’m currently studying 2º DAW<br>
 Developer with a passion for technology, with experience in web projects, automation and clean code. In this repository you will find a sample of my work, my learnings and my evolution as a professional.
-<h1 align="center">👨‍💻 Languages</h1>
+<h2 align="center">👨‍💻 Languages</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">

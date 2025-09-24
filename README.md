@@ -9,7 +9,6 @@
 Developer with a passion for technology, with experience in web projects, automation and clean code. In this repository you will find a sample of my work, my learnings and my evolution as a professional.
 <h2 align="center">👨‍💻 Languages</h2>
 
-<h1 align="center">👨‍💻 Languages</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">

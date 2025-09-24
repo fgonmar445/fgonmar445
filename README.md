@@ -10,7 +10,7 @@ Developer with a passion for technology, with experience in web projects, automa
 <h2 align="center">👨‍💻 Languages</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=html,css,java&theme=light,js"/>
     <img src="https://skillicons.dev/icons?i=py,php&theme=light"/>
   </a>
 </p>

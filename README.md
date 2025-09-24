@@ -4,7 +4,5 @@
 Developer with a passion for technology, with experience in web projects, automation and clean code. In this repository you will find a sample of my work, my learnings and my evolution as a professional.
 <p align="center">
   ### 👨‍💻 Languages
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,angular,py,java,sql>
-  </a>
+ [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 </p>

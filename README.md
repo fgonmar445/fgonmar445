@@ -5,6 +5,6 @@ Developer with a passion for technology, with experience in web projects, automa
 <p align="center">
   ### 👨‍💻 Languages
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,angular,py,java,sql&theme=light/>
+    <img src="https://skillicons.dev/icons?i=js,html,css,angular,py,java,sql>
   </a>
 </p>

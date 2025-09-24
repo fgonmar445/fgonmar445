@@ -35,7 +35,7 @@ Developer with a passion for technology, with experience in web projects, automa
 <h2 align="center">☁️ Cloud Platforms</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,netlify&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,netlify"/>
   </a>
 </p>
 

@@ -38,7 +38,8 @@ Developer with a passion for technology, with experience in web projects, automa
     <img src="https://skillicons.dev/icons?i=aws,gcp,azure,netlify"/>
   </a>
 </p>
----
+
+***
 
 ## 📊 GitHub Stats
 

@@ -38,4 +38,26 @@ Developer with a passion for technology, with experience in web projects, automa
     <img src="https://skillicons.dev/icons?i=aws,gcp,azure,netlify"/>
   </a>
 </p>
+---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fgonmar445&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgonmar445&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/Badr-afk">
+    <img src="https://img.shields.io/badge/GitHub-fgonmar445-181717?style=for-the-badge&logo=github" alt="GitHub Link" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fgonmar445&style=flat-square&color=blue" alt="Profile Views" />
+</p>

@@ -42,19 +42,6 @@ Developer with a passion for technology, with experience in web projects, automa
 </p>
 
 ***
-
-## 📊 GitHub Stats
-
-<p align="center">
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fgonmar445&show_icons=true&theme=tokyonight)
-</p>
-
-<p align="center">
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fgonmar445&layout=compact&theme=tokyonight)
-</p>
-
----
-
 <p align="center">
   <a href="https://github.com/Badr-afk">
     <img src="https://img.shields.io/badge/GitHub-fgonmar445-181717?style=for-the-badge&logo=github" alt="GitHub Link" />

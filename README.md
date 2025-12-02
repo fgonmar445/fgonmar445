@@ -50,7 +50,7 @@ Developer with a passion for technology, with experience in web projects, automa
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgonmar445&layout=compact&theme=tokyonight" alt="Top Languages" />
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fgonmar445&layout=compact&theme=tokyonight)
 </p>
 
 ---

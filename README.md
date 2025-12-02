@@ -46,8 +46,7 @@ Developer with a passion for technology, with experience in web projects, automa
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=tokyonight
-" alt="GitHub Stats" />
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fgonmar445&show_icons=true&theme=tokyonight)
 </p>
 
 <p align="center">

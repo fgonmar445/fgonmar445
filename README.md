@@ -42,6 +42,9 @@ Developer with a passion for technology, with experience in web projects, automa
 </p>
 
 ***
+---
+
+## 📊 Mis estadísticas en GitHub 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=fgonmar445&show_icons=true&theme=radical" />

@@ -80,7 +80,8 @@ Aplicación completa con Bootstrap, validación y formato europeo de fechas.
 <img src="https://github-readme-stats.vercel.app/api?username=fgonmar445&show_icons=true&theme=radical" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgonmar445&layout=compact&theme=radical" />
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fgonmar445&theme=react-dark" />
+<img src="https://metrics.lecoq.io/fgonmar445?template=classic&config.timezone=Europe/Madrid" />
+
 
 
 

@@ -42,6 +42,12 @@ Developer with a passion for technology, with experience in web projects, automa
 </p>
 
 ***
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=fgonmar445&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgonmar445&layout=compact&theme=radical" />
+
+</div>
 <p align="center">
   <a href="https://github.com/Badr-afk">
     <img src="https://img.shields.io/badge/GitHub-fgonmar445-181717?style=for-the-badge&logo=github" alt="GitHub Link" />

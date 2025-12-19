@@ -75,7 +75,8 @@ Aplicación completa con Bootstrap, validación y formato europeo de fechas.
 ---
 
 ## 📊 GitHub Stats
-<div>
+<div style="display: flex; justify-content: center; gap: 10px;">
+  
   <!-- GitHub Stats -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=fgonmar445&show_icons=true&theme=tokyonight&border_color=ffffff" 

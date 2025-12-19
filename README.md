@@ -80,7 +80,7 @@ Aplicación completa con Bootstrap, validación y formato europeo de fechas.
 <img src="https://github-readme-stats.vercel.app/api?username=fgonmar445&show_icons=true&theme=radical" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgonmar445&layout=compact&theme=radical" />
 <br>
-<img src="https://streak-stats.demolab.com/user=fgonmar445&theme=radical" />
+<img src="https://streak-stats.demolab.com/?user=fgonmar445&theme=radical" />
 
 </div>
 

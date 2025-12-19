@@ -78,9 +78,8 @@ Aplicación completa con Bootstrap, validación y formato europeo de fechas.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=fgonmar445&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgonmar445&layout=compact&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fgonmar445&theme=monokai" />
 <br>
-![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fgonmar445&theme=monokai)
 
 
 

@@ -102,8 +102,6 @@ Aplicación completa con Bootstrap, validación y formato europeo de fechas.
   <img src="https://komarev.com/ghpvc/?username=fgonmar445&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
----
-
 <p align="center"><i>"Code. Learn. Improve. Repeat."</i></p>
 
 <p align="center">

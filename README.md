@@ -81,7 +81,6 @@ Aplicación completa con Bootstrap, validación y formato europeo de fechas.
     height="180"
     style="display:inline-block;"
   />
-
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fgonmar445&theme=tokyonight&hide_border=false" 
     height="180"

@@ -41,7 +41,7 @@ Developer with a passion for technology, with experience in web projects, automa
   </a>
 </p>
 
-***
+
 ---
 
 ## 📊 Mis estadísticas en GitHub 
@@ -51,6 +51,7 @@ Developer with a passion for technology, with experience in web projects, automa
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgonmar445&layout=compact&theme=radical" />
 
 </div>
+***
 <p align="center">
   <a href="https://github.com/Badr-afk">
     <img src="https://img.shields.io/badge/GitHub-fgonmar445-181717?style=for-the-badge&logo=github" alt="GitHub Link" />

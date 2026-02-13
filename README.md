@@ -13,6 +13,12 @@ Soy un desarrollador en formación cursando **2º DAW**, apasionado por la tecno
 En este perfil encontrarás mis proyectos, mis avances y mi evolución como profesional.  
 Me encanta aprender, mejorar y enfrentar nuevos retos cada día.
 
+<p align="center">
+  <a href="https://fgonmar445.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Mi%20Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## 📘 Learning Now

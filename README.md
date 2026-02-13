@@ -39,7 +39,7 @@ Aplicación completa con Bootstrap, validación y formato europeo de fechas.
 <h2 align="center">👨‍💻 Languages</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts"/>
     <img src="https://skillicons.dev/icons?i=py,java,php&theme=light"/>
   </a>
 </p>
@@ -54,7 +54,7 @@ Aplicación completa con Bootstrap, validación y formato europeo de fechas.
 <h2 align="center">📚 Frameworks</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,vue,bootstrap&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=react,angular,vue,astro,bootstrap,tailwind,django,laravel&theme=light"/>
   </a>
 </p>
 
@@ -68,7 +68,7 @@ Aplicación completa con Bootstrap, validación y formato europeo de fechas.
 <h2 align="center">☁️ Cloud Platforms</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,netlify"/>
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,netlify,vercel"/>
   </a>
 </p>
 

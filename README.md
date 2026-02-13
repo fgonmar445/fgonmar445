@@ -54,7 +54,7 @@ Aplicación completa con Bootstrap, validación y formato europeo de fechas.
 <h2 align="center">📚 Frameworks</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,django,flask,bootstrap&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=react,angular,vue,bootstrap&theme=light"/>
   </a>
 </p>
 

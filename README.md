@@ -30,11 +30,11 @@ const profile = {
 
 <br>
 
-## 📚 Actualmente aprendiendo
+## Actualmente aprendiendo
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=ts,docker,laravel&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,aws,python,vue,docker,laravel&perline=3)](https://skillicons.dev)
 
 </div>
 

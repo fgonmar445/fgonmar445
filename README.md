@@ -102,7 +102,7 @@ Aplicación completa de gestión de libros con Bootstrap, validación de datos y
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fgonmar445&theme=tokyonight" alt="GitHub Profile Summary Card" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fgonmar445&theme=tokyonight" alt="GitHub Profile Summary Card" width="75%" />
 </p>
 </div>
 <br>

@@ -1,20 +1,21 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&duration=2500&pause=1000&color=0D1117&background=47F5FF&center=true&vCenter=true&width=500&lines=Hi%2C+there!+I'm+Felipe" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=38&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Felipe!;Full-Stack+Developer;Always+learning+and+building+🚀" />
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=200&section=header&text=fgonmar445&fontSize=40" alt="banner">
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=180&section=header&text=fgonmar445&fontSize=45&fontColor=ffffff" />
+</p>
 
 ---
 
-# Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+# 👨‍🚀 About Me
 
-## 👨‍🚀 About Me
 Soy un desarrollador en formación cursando **2º DAW**, apasionado por la tecnología, el desarrollo web y el código limpio.  
-En este perfil encontrarás mis proyectos, mis avances y mi evolución como profesional.  
 Me encanta aprender, mejorar y enfrentar nuevos retos cada día.
+
+🎯 **Objetivo:** Convertirme en un desarrollador full‑stack capaz de crear soluciones reales y escalables.
 
 <p align="center">
   <a href="https://fgonmar445.github.io" target="_blank">
@@ -24,7 +25,8 @@ Me encanta aprender, mejorar y enfrentar nuevos retos cada día.
 
 ---
 
-## 📘 Learning Now
+# 📘 Learning Now
+
 - TypeScript  
 - Laravel  
 - Docker avanzado  
@@ -33,7 +35,7 @@ Me encanta aprender, mejorar y enfrentar nuevos retos cada día.
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🔐 Login MVC Seguro en PHP  
 Autenticación robusta con sesiones seguras, bloqueo por intentos y arquitectura MVC.  
@@ -45,58 +47,59 @@ Aplicación completa con Bootstrap, validación y formato europeo de fechas.
 
 ---
 
-<h2 align="center">👨‍💻 Languages</h2>
+# 🛠 Tech Stack
+
+<h3 align="center">Languages</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts"/>
-    <img src="https://skillicons.dev/icons?i=py,java,php&theme=light"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,php" />
 </p>
 
-<h2 align="center">📀 Databases</h2>
+<h3 align="center">Databases</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&theme=light"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
 </p>
 
-<h2 align="center">📚 Frameworks</h2>
+<h3 align="center">Frameworks</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,vue,astro,bootstrap,tailwind,django,laravel&theme=light"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,angular,vue,astro,bootstrap,tailwind,django,laravel" />
 </p>
 
-<h2 align="center">🔧 DevOps</h2>
+<h3 align="center">DevOps</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=light"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
 </p>
 
-<h2 align="center">☁️ Cloud Platforms</h2>
+<h3 align="center">Cloud Platforms</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,netlify,vercel"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,netlify,vercel" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
+
 <div align="center">
   <img 
     src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fgonmar445&theme=tokyonight" 
     height="180"
-    style="display:inline-block;"
   />
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fgonmar445&theme=tokyonight&border_color=ffffff" height="180" style="display:inline-block;"/>
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fgonmar445&theme=tokyonight" 
+    height="180"
+  />
+</div>
+
+<div align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=fgonmar445&theme=tokyonight" 
+    height="180"
+  />
 </div>
 
 ---
 
-## 📬 Contact Me
+# 📬 Contact Me
+
 - 📧 Email: **fgonmar445@gmail.com**  
 - 🐙 GitHub: **fgonmar445**  
 - 💼 LinkedIn: *(en proceso)*  
@@ -104,11 +107,11 @@ Aplicación completa con Bootstrap, validación y formato europeo de fechas.
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-fgonmar445-181717?style=for-the-badge&logo=github" alt="GitHub Link" />
+  <img src="https://img.shields.io/badge/GitHub-fgonmar445-181717?style=for-the-badge&logo=github" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fgonmar445&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=fgonmar445&style=flat-square&color=blue" />
 </p>
 
 <p align="center"><i>"Code. Learn. Improve. Repeat."</i></p>

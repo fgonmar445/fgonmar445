@@ -118,3 +118,15 @@ Siempre abierto a nuevos proyectos y colaboraciones
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://fgonmar445.github.io)
 
 </div>
+
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+### Code. Learn. Improve.
+
+</div>
+
+
+

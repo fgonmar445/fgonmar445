@@ -123,5 +123,6 @@ Siempre abierto a nuevos proyectos y colaboraciones
 
 <br>
 <div align="center">
+  
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
 </div>

@@ -97,12 +97,12 @@ Aplicación completa de gestión de libros con Bootstrap, validación de datos y
 
 <div align="center">
 <p align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=fgonmar445&show_icons=true&theme=tokyonight&border_radius=10" alt="Ángel's GitHub stats" height="180" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fgonmar445&layout=compact&theme=tokyonight&border_radius=10" alt="Top Langs" height="180" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=fgonmar445&show_icons=true&theme=tokyonight&border_radius=10" alt="Ángel's GitHub stats" height="160" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fgonmar445&layout=compact&theme=tokyonight&border_radius=10" alt="Top Langs" height="160" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fgonmar445&theme=tokyonight" alt="GitHub Profile Summary Card" width="75%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fgonmar445&theme=tokyonight" alt="GitHub Profile Summary Card" width="300px" />
 </p>
 </div>
 <br>
@@ -120,4 +120,4 @@ Siempre abierto a nuevos proyectos y colaboraciones
 
 <br>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=360%&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)

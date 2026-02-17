@@ -96,7 +96,7 @@ Aplicación completa de gestión de libros con Bootstrap, validación de datos y
 ## 📊 GitHub Stats
 
 <div align="center">
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/fgonmar445?cardType=level-alternate&fontFamily=&showIcons=false&preferLogin=false)](https://git.io/awesome-stats-card)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fgonmar445&theme=default&show_icons=true&hide_border=true&layout=compact)
 </div>
 <br>
 

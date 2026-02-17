@@ -4,7 +4,8 @@
   </a>
 </p>
 
-![typing](https://capsule-render.vercel.app/api?type=rect&color=58a6ff&height=100&section=header&text=Full-Stack%20Developer&fontSize=30&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=200&section=header&text=fgonmar445&fontSize=40" alt="banner">
+
 
 ---
 

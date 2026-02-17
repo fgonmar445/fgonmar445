@@ -105,7 +105,7 @@ Aplicación completa de gestión de libros con Bootstrap, validación de datos y
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fgonmar445&theme=tokyonight" alt="GitHub Profile Summary Card" width="50%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fgonmar445&theme=tokyonight" alt="GitHub Profile Summary Card" width="65%" />
 </p>
 </div>
 <br>
@@ -119,10 +119,4 @@ Siempre abierto a nuevos proyectos y colaboraciones
 [![Email](https://img.shields.io/badge/fgonmar445@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fgonmar445@gmail.com)
 [![Portfolio](https://img.shields.io/badge/fgonmar445.github.io-000?style=flat&logo=vercel&logoColor=white)](https://fgonmar445.github.io)
 
-</div>
-
-<br>
-<div align="center">
-  
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
 </div>

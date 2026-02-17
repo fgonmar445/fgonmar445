@@ -34,9 +34,7 @@ const profile = {
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=ts,docker,laravel&perline=3)](https://skillicons.dev)
 
 </div>
 

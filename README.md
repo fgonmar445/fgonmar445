@@ -6,7 +6,7 @@
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://fgonmar445.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fgonmar445@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:felipemarbouh.com)
 [![GitHub](https://img.shields.io/github/followers/fgonmar445?label=Follow&style=flat&logo=github)](https://github.com/fgonmar445)
 ![Profile Views](https://komarev.com/ghpvc/?username=fgonmar445&color=blueviolet&style=flat)
 
@@ -114,7 +114,7 @@ Aplicación completa de gestión de libros con Bootstrap, validación de datos y
 
 Siempre abierto a nuevos proyectos y colaboraciones
 
-[![Email](https://img.shields.io/badge/fgonmar445@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fgonmar445@gmail.com)
-[![Portfolio](https://img.shields.io/badge/fgonmar445.github.io-000?style=flat&logo=vercel&logoColor=white)](https://fgonmar445.github.io)
+[![Email](https://img.shields.io/badge/felipemarbouh@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:felipemarbouh@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio?style=flat&logo=vercel&logoColor=white)](https://fgonmar445.github.io)
 
 </div>

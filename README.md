@@ -17,7 +17,7 @@
 
 ```typescript
 const profile = {
-    name: "Felipe González Martín",
+    name: "Felipe González",
     location: "Spain 🇪🇸",
     education: "DAW - Desarrollo de Aplicaciones Web",
     focus: "Full-Stack Development",
@@ -96,8 +96,7 @@ Aplicación completa de gestión de libros con Bootstrap, validación de datos y
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=fgonmar445&show_icons=true&theme=radical&hide_border=true&include_all_commits=true](https://camo.githubusercontent.com/40949b8fc3c6b62e21c3f44d1b7505751a15f58cf8dd11214800363815fdf0b9/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e67656c62617262613234266c61796f75743d636f6d70616374267468656d653d746f6b796f6e6967687426626f726465725f7261646975733d3130)" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgonmar445&theme=radical&hide_border=true&layout=compact" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fgonmar445&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="165" />
 </div>
 
 <div align="center">

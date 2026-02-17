@@ -24,11 +24,22 @@ const profile = {
     location: "Spain 🇪🇸",
     education: "DAW - Desarrollo de Aplicaciones Web",
     focus: "Full-Stack Development",
-    learning: ["TypeScript", "Laravel", "Docker", "REST APIs", "Security"]
+    learning: ["TypeScript", "Laravel", "Docker", "REST APIs"]
 };
 ```
 
 <br>
+
+## 📚 Actualmente aprendiendo
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+</div>
+
 
 ## Projectos
 

@@ -96,14 +96,8 @@ Aplicación completa de gestión de libros con Bootstrap, validación de datos y
 ## 📊 GitHub Stats
 
 <div align="center">
-  [<img src="https://github-readme-stats.vercel.app/api?username=fgonmar445&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="165" />](https://github-readme-stats-eight-theta.vercel.app
-)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/fgonmar445?cardType=level-alternate&fontFamily=&showIcons=false&preferLogin=false)](https://git.io/awesome-stats-card)
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fgonmar445&theme=radical&hide_border=true" width="48%" />
-</div>
-
 <br>
 
 ## 📫 Contact

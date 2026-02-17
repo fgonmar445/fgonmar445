@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Felipe%20González&fontSize=80&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Clean%20Code%20Enthusiast&descSize=20&descAlignY=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Felipe%20González&fontSize=80&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Clean%20Code%20Enthusiast&descSize=20&descAlignY=70)
 
 <div align="center">
   

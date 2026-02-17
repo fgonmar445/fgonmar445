@@ -34,7 +34,7 @@ const profile = {
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=ts,aws,python,vue,docker,laravel&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,aws,python,vue,docker,laravel&perline=3&theme=light)](https://skillicons.dev)
 
 </div>
 

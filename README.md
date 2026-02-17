@@ -115,6 +115,6 @@ Aplicación completa de gestión de libros con Bootstrap, validación de datos y
 Siempre abierto a nuevos proyectos y colaboraciones
 
 [![Email](https://img.shields.io/badge/felipemarbouh@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:felipemarbouh@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio?style=flat&logo=vercel&logoColor=white)](https://fgonmar445.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://fgonmar445.github.io)
 
 </div>

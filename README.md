@@ -1,4 +1,7 @@
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Felipe%20González&fontSize=80&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Clean%20Code%20Enthusiast&descSize=20&descAlignY=70)
+</div>
 
 <div align="center">
   
@@ -102,7 +105,7 @@ Aplicación completa de gestión de libros con Bootstrap, validación de datos y
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fgonmar445&theme=tokyonight" alt="GitHub Profile Summary Card" width="300px" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fgonmar445&theme=tokyonight" alt="GitHub Profile Summary Card" width="50%" />
 </p>
 </div>
 <br>
@@ -119,5 +122,6 @@ Siempre abierto a nuevos proyectos y colaboraciones
 </div>
 
 <br>
-
+<div align="center">
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
+</div>

@@ -14,7 +14,7 @@
 
 <br>
 
-## 👨‍💻 About Me
+## Sobre mí
 
 > Desarrollador en formación cursando **2º DAW**, apasionado por la tecnología, el desarrollo web y el código limpio. Siempre en constante aprendizaje y mejora.
 
@@ -30,7 +30,7 @@ const profile = {
 
 <br>
 
-## 🚀 Projects
+## Projectos
 
 <table>
 <tr>
@@ -59,7 +59,7 @@ Aplicación completa de gestión de libros con Bootstrap, validación de datos y
 
 <br>
 
-## � Tech Stack
+## Habilidades
 
 <div align="center">
 
@@ -110,7 +110,7 @@ Aplicación completa de gestión de libros con Bootstrap, validación de datos y
 </div>
 <br>
 
-## 📫 Contact
+## Contacto
 
 <div align="center">
 

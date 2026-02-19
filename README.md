@@ -131,10 +131,10 @@ Siempre abierto a nuevos proyectos y colaboraciones
 
 <div align="center">
 
-<p align="center"><i>"Code. Learn. Improve. Repeat."</i></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<p align="center"><i>"Code. Learn. Improve. Repeat."</i></p>
 </p>
 </div>
 

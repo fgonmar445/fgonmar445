@@ -11,7 +11,7 @@
 
 ---
 
-### 💫 Sobre Mí
+### Sobre Mí
 
 > Desarrollador en formación cursando **2º de Desarrollo de Aplicaciones Web (DAW)**. Me apasiona el desarrollo de software robusto, escalable y la aplicación de principios de **Clean Code**. Enfocado en la resolución eficiente de problemas tanto en frontend como backend.
 
@@ -28,7 +28,7 @@ const devProfile = {
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### Tecnologías y Herramientas
 
 <div align="center">
 
@@ -43,12 +43,12 @@ const devProfile = {
 
 ---
 
-### 🚀 Proyectos Destacados
+### Proyectos Destacados
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🍳 Cookly (TFG DAW)</h3>
+      <h3> Cookly (TFG DAW)</h3>
       <p>Plataforma para gestión de despensas y recetas. Integra TheMealDB API con traducción automática en tiempo real sin llamadas externas y panel de administración auditado.</p>
       <p>
         <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
@@ -59,7 +59,7 @@ const devProfile = {
       <a href="https://github.com/fgonmar445/cookly"><b>Ver Repositorio ➔</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>📋 WorkTeam</h3>
+      <h3> WorkTeam</h3>
       <p>Plataforma web de gestión de proyectos y tareas estilo Jira. Cuenta con control de roles, asignación de subtareas, comentarios y tablero Kanban interactivo.</p>
       <p>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
@@ -72,7 +72,7 @@ const devProfile = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔐 Login MVC Seguro</h3>
+      <h3> Login MVC Seguro</h3>
       <p>Sistema de autenticación robusto desarrollado en PHP limpio bajo arquitectura MVC. Protecciones contra fuerza bruta y sesiones seguras.</p>
       <p>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
@@ -82,7 +82,7 @@ const devProfile = {
       <a href="https://github.com/fgonmar445/Login_MVC"><b>Ver Repositorio ➔</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>📚 CRUD de Libros</h3>
+      <h3> CRUD de Libros</h3>
       <p>Gestor completo de biblioteca con operaciones CRUD, conexión PDO segura, diseño responsivo y control de formato de fechas estructurado.</p>
       <p>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
@@ -96,7 +96,7 @@ const devProfile = {
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <table border="0">
@@ -117,7 +117,7 @@ const devProfile = {
 
 <div align="center">
 
-### 🤝 Contacto y Redes
+### Contacto y Redes
 
 ¿Tienes una idea en mente o te gustaría colaborar? ¡Hablemos!
 

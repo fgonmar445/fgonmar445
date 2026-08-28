@@ -1,142 +1,134 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Felipe%20González&fontSize=80&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Clean%20Code%20Enthusiast&descSize=20&descAlignY=70)
-</div>
 
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://fgonmar445.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:felipemarbouh.com)
-[![GitHub](https://img.shields.io/github/followers/fgonmar445?label=Follow&style=flat&logo=github)](https://github.com/fgonmar445)
-![Profile Views](https://komarev.com/ghpvc/?username=fgonmar445&color=blueviolet&style=flat)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://fgonmar445.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fgonmar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipemarbouh@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=fgonmar445&color=6366f1&style=for-the-badge&label=Vistas)
 
 </div>
 
-<br>
+---
 
-## Sobre mí
+### 💫 Sobre Mí
 
-> Desarrollador en formación cursando **2º DAW**, apasionado por la tecnología, el desarrollo web y el código limpio. Siempre en constante aprendizaje y mejora.
+> Desarrollador en formación cursando **2º de Desarrollo de Aplicaciones Web (DAW)**. Me apasiona el desarrollo de software robusto, escalable y la aplicación de principios de **Clean Code**. Enfocado en la resolución eficiente de problemas tanto en frontend como backend.
 
 ```typescript
-const profile = {
+const devProfile = {
     name: "Felipe González",
+    role: "Full-Stack Developer",
     location: "Spain 🇪🇸",
-    education: "DAW - Desarrollo de Aplicaciones Web",
-    focus: "Full-Stack Development",
-    learning: ["TypeScript", "Laravel", "Docker", "REST APIs"]
+    focus: ["Laravel 12", "Spring Boot", "Angular", "REST APIs"],
+    methodologies: ["MVC", "Clean Architecture", "Agile/Kanban"],
+    learningNow: ["TypeScript", "Docker", "Cloud Deployments"]
 };
 ```
 
-<br>
+---
 
-## Actualmente aprendiendo
+### 🛠️ Tecnologías y Herramientas
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=ts,aws,python,vue,docker,laravel&theme=light&perline=3)](https://skillicons.dev)
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Backend** | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) |
+| **Frontend** | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Bases de Datos** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **DevOps & Tooling** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 
 </div>
 
+---
 
-## Projectos
+### 🚀 Proyectos Destacados
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 Login MVC Seguro
-Sistema de autenticación robusto con sesiones seguras, bloqueo por intentos fallidos y arquitectura MVC limpia.
-
-`PHP` `MySQL` `MVC` `Security`
-
-[![View](https://img.shields.io/badge/View_Repo-000?style=flat&logo=github)](https://github.com/fgonmar445/Login_MVC)
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 CRUD de Libros
-Aplicación completa de gestión de libros con Bootstrap, validación de datos y formato europeo de fechas.
-
-`PHP` `PDO` `MySQL` `Bootstrap`
-
-[![View](https://img.shields.io/badge/View_Repo-000?style=flat&logo=github)](https://github.com/fgonmar445/Libros_mvc)
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍳 Cookly (TFG DAW)</h3>
+      <p>Plataforma para gestión de despensas y recetas. Integra TheMealDB API con traducción automática en tiempo real sin llamadas externas y panel de administración auditado.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpine.js&logoColor=black" />
+      </p>
+      <a href="https://github.com/fgonmar445/cookly"><b>Ver Repositorio ➔</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📋 WorkTeam</h3>
+      <p>Plataforma web de gestión de proyectos y tareas estilo Jira. Cuenta con control de roles, asignación de subtareas, comentarios y tablero Kanban interactivo.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+      <a href="https://github.com/fgonmar445/WorkTeam"><b>Ver Repositorio ➔</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 Login MVC Seguro</h3>
+      <p>Sistema de autenticación robusto desarrollado en PHP limpio bajo arquitectura MVC. Protecciones contra fuerza bruta y sesiones seguras.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/MVC-000?style=flat-square&logo=hackaday&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+      <a href="https://github.com/fgonmar445/Login_MVC"><b>Ver Repositorio ➔</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 CRUD de Libros</h3>
+      <p>Gestor completo de biblioteca con operaciones CRUD, conexión PDO segura, diseño responsivo y control de formato de fechas estructurado.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/PDO-000?style=flat-square&logo=databricks&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+      </p>
+      <a href="https://github.com/fgonmar445/Libros_mvc"><b>Ver Repositorio ➔</b></a>
+    </td>
+  </tr>
 </table>
 
-<br>
+---
 
-## Habilidades
+### 📊 GitHub Stats
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=fgonmar445&show_icons=true&theme=tokyonight&border_radius=10&show_icons=true&locale=es" alt="GitHub stats" height="170" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fgonmar445&layout=compact&theme=tokyonight&border_radius=10&locale=es" alt="Top Langs" height="170" />
+      </td>
+    </tr>
+  </table>
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fgonmar445&theme=tokyonight" alt="GitHub Profile Summary Card" width="75%" />
+</div>
+
+---
 
 <div align="center">
 
-**Languages**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+### 🤝 Contacto y Redes
 
-**Frontend**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+¿Tienes una idea en mente o te gustaría colaborar? ¡Hablemos!
 
-**Backend & Database**  
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**DevOps & Tools**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-
-</div>
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipemarbouh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fgonmar)
+[![Portfolio](https://img.shields.io/badge/Portfolio_Web-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://fgonmar445.github.io)
 
 <br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-<p align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=fgonmar445&show_icons=true&theme=tokyonight&border_radius=10" alt="Ángel's GitHub stats" height="160" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fgonmar445&layout=compact&theme=tokyonight&border_radius=10" alt="Top Langs" height="160" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fgonmar445&theme=tokyonight" alt="GitHub Profile Summary Card" width="65%" />
-</p>
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 <br>
 
-## Contacto
-
-<div align="center">
-
-Siempre abierto a nuevos proyectos y colaboraciones
-
-[![Email](https://img.shields.io/badge/felipemarbouh@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:felipemarbouh@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://fgonmar445.github.io)
+_"Code. Learn. Improve. Repeat."_
 
 </div>
-
-
-<div align="center">
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-<p align="center"><i>"Code. Learn. Improve. Repeat."</i></p>
-</p>
-</div>
-
-
-
